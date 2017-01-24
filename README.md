@@ -1,6 +1,6 @@
 # Boids
 
-Flocking AI written in Java. The program is structured following Craig Reynold's three rules implementation and uses a custom Vector class to properly use vector mathematics. Pretty simple the code is in Java and everything is named so that everything is pretty self-explanatory.
+Flocking AI written in Java. The program is structured following Craig Reynold's three rules implementation and uses a custom Vector class to properly use vector mathematics. Written in Java and everything is properly named so that the code is pretty self-explanatory.
 
 ## Installation
 
